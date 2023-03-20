@@ -1,0 +1,37 @@
+{
+  "files": {
+    "main.css": "/static/css/main.a3a4c654.css",
+    "main.js": "/static/js/main.a434f727.js",
+    "static/js/787.ec704a7a.chunk.js": "/static/js/787.ec704a7a.chunk.js",
+    "static/media/education.png": "/static/media/education.1057102c59f39c1bfc3c.png",
+    "static/media/CV_Français.pdf": "/static/media/CV_Français.765a03a8387543bbd7fc.pdf",
+    "static/media/CV_English.pdf": "/static/media/CV_English.0ab4eff55475aeb4d1b7.pdf",
+    "static/media/APPLICATION DE LOCATION DES VOITURES.pdf": "/static/media/APPLICATION DE LOCATION DES VOITURES.ca447461b3884895ad22.pdf",
+    "static/media/responsive.png": "/static/media/responsive.65772aa715436cc1e611.png",
+    "static/media/weather__app2.PNG": "/static/media/weather__app2.13bf4880f1c958ca1e7b.PNG",
+    "static/media/rentalcar.PNG": "/static/media/rentalcar.9ccd54d3bfc286e36cd3.PNG",
+    "static/media/cars_user.PNG": "/static/media/cars_user.ab2925f8ec1ba4796560.PNG",
+    "static/media/me.jpeg": "/static/media/me.e61ccfbfdb96dff0ced0.jpeg",
+    "static/media/av.gif": "/static/media/av.20ce852b1b5bd7ea9931.gif",
+    "static/media/bg.jpg": "/static/media/bg.91e3ef18eb975d4575da.jpg",
+    "static/media/bg.png": "/static/media/bg.affe6ac638d8b7cf778b.png",
+    "static/media/chatting.PNG": "/static/media/chatting.661748f2c7467acfe9ed.PNG",
+    "static/media/js.png": "/static/media/js.a2a16f087e18d50f3d99.png",
+    "static/media/mysql.png": "/static/media/mysql.7d8d571e5629923eaf74.png",
+    "static/media/wordpress.png": "/static/media/wordpress.11ed091523e3152b651f.png",
+    "static/media/java.png": "/static/media/java.f5dd86c3ef6ef3f85acf.png",
+    "static/media/css.png": "/static/media/css.463e319bad8e0edf1ef7.png",
+    "static/media/US.png": "/static/media/US.c3c4dc994f0817c25cb4.png",
+    "static/media/html.png": "/static/media/html.ff3cf75e3b7cbb4ea77c.png",
+    "static/media/FR.png": "/static/media/FR.0234f3f8cc27b2c49358.png",
+    "static/media/slide.mp3": "/static/media/slide.7fa25a20423eba7078f9.mp3",
+    "index.html": "/index.html",
+    "main.a3a4c654.css.map": "/static/css/main.a3a4c654.css.map",
+    "main.a434f727.js.map": "/static/js/main.a434f727.js.map",
+    "787.ec704a7a.chunk.js.map": "/static/js/787.ec704a7a.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a3a4c654.css",
+    "static/js/main.a434f727.js"
+  ]
+}
